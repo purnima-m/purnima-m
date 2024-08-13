@@ -1,7 +1,7 @@
-![Header](https://ibb.co/c6V4Q9c)
+(![github-header-image (3)](https://github.com/user-attachments/assets/fd4efa2e-7a80-4a34-b4de-c88c7cd07234))
 <h1 align="center">Hi 👋, I'm Purnima M</h1>
 <h3 align="center">Innovating with Machine Learning and Gen AI for Real-World Impact</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://dribbble.com/shots/3848396-Character-Typing">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/93cc6261bb36b6e11237ea64ecde6961.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima-m&label=Profile%20views&color=0e75b6&style=flat" alt="purnima-m" /> </p>
 
