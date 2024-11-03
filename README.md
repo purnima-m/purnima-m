@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Gen AI Transformers**
 
-- 👨‍💻 All of my projects are available at [https://purnima-m.my.canva.site/portfolio-website](https://purnima-m.my.canva.site/portfolio-website)
-
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Generative AI, Cloud Management**
 
 - 📫 How to reach me **malineni.pm@outlook.com**
